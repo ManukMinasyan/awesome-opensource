@@ -574,6 +574,7 @@
 - [Erxes](https://github.com/erxes/erxes) - Open-source growth marketing, sales, and customer engagement platform.
 - [Focalboard](https://github.com/mattermost/focalboard) - Self-hosted project and task management tool inspired by Trello and Notion.
 - [Plane](https://github.com/makeplane/plane) - Open-source project management and issue tracking platform.
+- [Relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with a built-in AI assistant and an MCP server, so Claude and ChatGPT can read and update companies, people and opportunities.
 - [Twenty](https://github.com/twentyhq/twenty) - Modern open-source CRM platform focused on extensibility and ownership.
 
 ## Web Development
